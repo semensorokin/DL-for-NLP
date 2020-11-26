@@ -18,6 +18,10 @@
 ### 7. [Week 7.](https://www.youtube.com/watch?v=XJxUiNGOQSA)
 
 ### 8. [Week 8.](https://www.youtube.com/watch?v=lTqw2vPpwXg&feature=youtu.be)
+
+### 9. [Week 9.](https://www.youtube.com/watch?v=-iXCLBopJYI)
+
+### 10. [Week 10.](https://www.youtube.com/watch?v=o2to82m9hsg)
  <br>
 
 #### [Logisctic regression from scratch (numpy)](https://colab.research.google.com/drive/1kK3BrW7EF-MImTKl-L3QwRzaYVGPpzfw?usp=sharing) 
