@@ -1,6 +1,28 @@
+## Natural Language Processing Course Page 
+### Year 2021-2022
+
+Hi!
+
+This is a page of the course "Natural Language Processing (2021-2022)"! 
+
+Here you can find all materials presented during lectures and seminars.
+
+If you have any questions, please contact me via mail (sorokin.semen2020@gmail.com) or via Telegram @SemenSorork1n. 
+
+### Sheets with [Assessment](https://docs.google.com/spreadsheets/d/1tzAz0W3_1bPFlKiQj8q2U18B655kcA2fiH9dy9qiyxE/edit?usp=sharing)
+
+
+| Week topic | Date | Video link | Homework | Useful links |
+| :---: | :---: | :---: | :---: | :---: |
+| About course. ML vs DL. Linear regression (start).| 07.09.2021 | [Lec#1-2](https://youtu.be/KUF4ayMG7-E)  | Check useful links. Linear/Log regression |  |
+
+
+
 ![Screenshot](Natural-language-processing.jpeg)
 
-# Lectures and links (additional info)
+
+
+# Old Lectures and links (additional info) Year 2020-2021
 
 
 ### 1. [Week 1.](https://www.youtube.com/watch?v=OWt-5QUoLAk&t=1s)
