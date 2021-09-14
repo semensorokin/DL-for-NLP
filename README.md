@@ -15,7 +15,7 @@ If you have any questions, please contact me via mail (sorokin.semen2020@gmail.c
 | Week topic | Date | Video link | Homework | Useful links |
 | :---: | :---: | :---: | :---: | :---: |
 | About course. ML vs DL. Linear regression (start).| 07.09.2021 | [Lec#1](https://youtu.be/KUF4ayMG7-E)  | Check useful links. Linear/Log regression | How to calculate [regression using MSE](https://youtube.com/playlist?list=PLF596A4043DBEAE9C)  |
-| Linear regression and logistic regression.| 13.09.2021 |   |  |  |
+| Linear regression and logistic regression.| 13.09.2021 | [Lec#2](https://youtu.be/AD25RbUwAmI) |  |  |
 
 
 
