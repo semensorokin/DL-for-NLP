@@ -16,7 +16,14 @@ If you have any questions, please contact me via mail (sorokin.semen2020@gmail.c
 | :---: | :---: | :---: | :---: | :---: |
 | About course. ML vs DL. Linear regression (start).| 07.09.2021 | [Lec#1](https://youtu.be/KUF4ayMG7-E)  | Check useful links. Linear/Log regression | How to calculate [regression using MSE](https://youtube.com/playlist?list=PLF596A4043DBEAE9C)  |
 | Linear regression and logistic regression.| 13.09.2021 | [Lec#2](https://youtu.be/AD25RbUwAmI) |  [Logisctic regression from scratch (numpy)](https://colab.research.google.com/drive/1kK3BrW7EF-MImTKl-L3QwRzaYVGPpzfw?usp=sharing)  |  |
+| Gradient Descent.| 20.09.2021 | [Lec#3](https://youtu.be/L9ts_mKswtk) |    | [Optimization explained](https://ruder.io/optimizing-gradient-descent/) [About gradient (read)](https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/) [About gradient (video)](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient) |
+| Embeddings. Part 1| 27.09.2021|[Lec#4](https://youtu.be/YxIm6JvUioY)| |[Embedding_from_scratch](https://colab.research.google.com/drive/16f84ZfIJq0k37Gjo6McJfUpH91jhc33C?usp=sharing)|
+| Embeddings. Part 2| 04.10.2021|[Lec#5](https://youtu.be/mVqcWJeOhfs)| ||
 
+### HomeWorks
+| HW | Deadline | GoogleForm |
+| :---: | :---: | :---: |
+|/homework1/Homework1_digit_cls.ipynb | 10.10 | https://forms.gle/Xv6BgLtdPSBXGN2N8 |
 
 
 ![Screenshot](Natural-language-processing.jpeg)
