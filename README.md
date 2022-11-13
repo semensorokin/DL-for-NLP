@@ -9,7 +9,9 @@ Here you can find all materials presented during lectures and seminars.
 
 If you have any questions, please contact me via mail (sorokin.semen2020@gmail.com) or via Telegram @SemenSorok1n. 
 
-### Sheets with [Assessment]()
+Sheets with [Assessment]()
+
+### Nearly all materials are made by [BobaZooba](https://github.com/BobaZooba) for the [MS Deep Learning course](https://github.com/BobaZooba/DeepNLP). Thank you a lot for your experience and information sharing!
 
 
 |                          Week topic                          |    Date    |                      Video link                      |                 Homework                  |                                                                                                                                                                          Useful links                                                                                                                                                                          |
